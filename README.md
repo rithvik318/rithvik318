@@ -13,7 +13,7 @@ I enjoy working on real-world applications combining AI, decentralized systems, 
 
 ## 🚀 Projects
 <p align="center">
-👨‍💻 <a href="https://github.com/rithvik318">github.com/rithvik318</a>
+👨‍💻 <a href="https://github.com/rithvik318?tab=repositories">github.com/rithvik318</a>
 </p>
 
 ---
